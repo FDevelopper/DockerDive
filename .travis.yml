@@ -20,3 +20,4 @@ after_success:
   - docker push issamfellaki/multi-nginx
   - docker push issamfellaki/multi-server
   - docker push issamfellaki/multi-worker
+
